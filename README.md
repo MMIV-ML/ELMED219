@@ -43,10 +43,10 @@ The objective and content of the course address: The computational mindset, imag
 | 14:15-15:00                 | About the course <br> [Tools], [teams] and [project]                                   |
 |                             | *Arvid Lundervold  / N.N.*                                                             |
 | 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning]                         |
-|                             | *N.N*                                                                                  |
+|                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | **Week 1<br>Fri, Jan 5**    |                                                                                        |
 | 10:15-11:00                 | [LAB 0: Introduction to theory and tools for machine learning] cont.                   |
-|                             | *N.N*                                                                                  |
+|                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | 11:15-13:00                 |  [LAB 1: Brain imaging (mpMRI) in glioblastoma]                                        |
 |                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
@@ -58,7 +58,9 @@ The objective and content of the course address: The computational mindset, imag
 |                             | *N.N. / Arvid Lundervold*                                                              |
 | **Week 3<br>Team project**  |  Joint with BMED365 - Working on project in interdisciplinary teams                   |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
-| 08:15-16:00                 | Meet-up for team project brainstorming and coaching                                    |
+| 09:00-12:00                 | Crash-course in Python programming                                                     |
+|                             | *Ben Bjørsvik*                                                                         |
+| 13:00-16:00                 | Meet-up for team project brainstorming and coaching                                    |
 |                             | *Arvid Lundervold / N.N.*                                                              |
 |  **Week 4<br>Wed, Jan 24**  |                                                                                        |
 | 08:15-10:00                 | Project presentations by team  (jointly with BMED365)                                 |
