@@ -20,12 +20,10 @@ This lab will give a quick example-based introduction to basic ideas in machine 
 
 
 
-| Notebook    |      1-Click Notebook      |    Video*   |
+| Notebook    |      1-Click Notebook      | 
 |:----------|------|-------|
-|  [ELMED219-Lab0-simple_examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/ELMED219-Lab0-simple_examples.ipynb)  <br>constructs predictive models based on some simple data sets. <br>Provides a hands-on introduction to some basic ingredients and techniques in ML. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/ELMED219-Lab0-simple_examples.ipynb)<br>[![kaggle](https://camo.githubusercontent.com/a08ca511178e691ace596a95d334f73cf4ce06e83a5c4a5169b8bb68cac27bef/68747470733a2f2f6b6167676c652e636f6d2f7374617469632f696d616765732f6f70656e2d696e2d6b6167676c652e737667)](https://www.kaggle.com/alexanderlundervold/elmed219-lab0-simple-examples)| [![YouTube](assets/youtube_button.png)](https://www.youtube.com/watch?v=OhxUgFNnj1U) |
+|  [Lab0-01-simple-examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-simple-examples.ipynb)  <br>constructs predictive models based on some simple data sets. <br>Provides a hands-on introduction to some basic ingredients and techniques in ML. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-simple-examples.ipynb)<br>
 
-<p>
-<sub> Note: The video walk-throughs don't always correspond precisely to the notebooks.</sub>
 </p>
 ---
 
