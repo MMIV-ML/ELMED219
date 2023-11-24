@@ -42,7 +42,7 @@ The objective and content of the course address: The computational mindset, imag
 | **Week 1<br>Thu, Jan 4**    |                                                                                        |
 | 14:15-15:00                 | About the course <br> [Tools], [teams] and [project]                                   |
 |                             | *Arvid Lundervold  / N.N.*                                                             |
-| 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning]                         |
+| 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)                         |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | **Week 1<br>Fri, Jan 5**    |                                                                                        |
 | 10:15-11:00                 | [LAB 0: Introduction to theory and tools for machine learning] cont.                   |
