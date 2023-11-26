@@ -1,4 +1,4 @@
-ELMED219: Artificial intelligence and computational medicine
+[ELMED219](https://www.uib.no/en/course/ELMED219): Artificial intelligence and computational medicine
 
 # Setting up your system
 
