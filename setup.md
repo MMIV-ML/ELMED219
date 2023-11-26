@@ -10,12 +10,12 @@ If you have a subscription to [ChatGPT Pluss](https://openai.com/blog/chatgpt-pl
 _NOTE: ChatGPT can make mistakes. Consider checking important information._
 
 ## Table of Contents
-- [Are you using Windows?](##Are-you-using-Windows?)
+- [Are you using Windows?](#Are-you-using-Windows?)
 - [Are you using Mac?](##Are-you-using-Mac?)
     - [Subsection 2.1](#subsection-21)
     - [Subsection 2.2](#subsection-22)
 
-## Are you using Windows?
+# Are you using Windows?
 Then you must install [Git for Windows](https://gitforwindows.org) (for free) before you start. See also [here](https://www.youtube.com/watch?v=J_Clau1bYco). Thereafter:
 
 <img src="./assets/You.png" width="100"> <br>
