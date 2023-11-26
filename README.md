@@ -41,7 +41,7 @@ The objective and content of the course address: The computational mindset, imag
 | --------------------------- | -------------------------------------------------------------------------------------- |
 | **Week 1<br> Tue, Jan 2**   |                                                                                        |
 | _On your own_               | Get an overview of the course; installation of software and/or test out Google Colab   |
-|                             | Follow the instructions at [MittUiB](https://mitt.uib.no/courses/45080)                |
+|                             | Follow the instructions at [**setup.md**](./setup.md) and  [MittUiB](https://mitt.uib.no/courses/45080)                |
 | **Week 1<br> Wed, Jan 3**   |                                                                                        |
 | 10:15-14:00                 | Information, SW-installation<br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vTv4m61mE_mq4_L3v1Yzijww1axoZI7Jt5zUizug8pT3l5IY8CQ_82Al921P_HJLeXCBJJVeWl4bhvN/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI](https://www.dropbox.com/s/7ciwh1bxh5wyat4/ELMED219%20-%202023%20-Medical%20AI.pdf?dl=1)     |
 |                             | *Arvid Lundervold / N.N.*   |                                |
