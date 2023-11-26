@@ -155,8 +155,6 @@ Understanding and using these command line tools can greatly enhance your effici
 
 
 
---
-
 ## Are you using Mac?
 Then you must install [xcode](https://developer.apple.com/xcode/resources) (for free) before you start. See also [here](https://www.youtube.com/watch?v=m9m6HozVjo8) and [here](https://medium.com/@LondonAppBrewery/how-to-download-and-setup-xcode-10-for-ios-development-b63bed1865c). Thereafter (see also [here](https://stackoverflow.com/questions/9329243/how-to-install-xcode-command-line-tools)):
 
