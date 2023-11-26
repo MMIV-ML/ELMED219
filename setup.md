@@ -19,11 +19,11 @@ _NOTE: ChatGPT can make mistakes. Consider checking important information._
 - [Notes on Colab](#notes-on-colab)
     - [What is Google Colab?](#what-is-google-colab)
 - [Install and test your course environment](#install-and-test-yoiur-course-environment)
+    - [00-test-installation.ipynb](#test-your-installation)
 - [Unix shell](#unix-shell)
 - [Programming with Python](#programming-with-python)
 - [A note on R (tip for previous R users)](#a-note-on-r-tip-for-previous-r-users)
-    - [Subsection 2.1](#subsection-21)
-    - [Subsection 2.2](#subsection-22)
+
 
 # Are you using Windows?
 Then you must install [Git for Windows](https://gitforwindows.org) (for free) before you start. See also [here](https://www.youtube.com/watch?v=J_Clau1bYco). Thereafter:
@@ -352,7 +352,7 @@ The course code is hosted on the code-sharing platform GitHub (where you now are
 We recommend installing Python via the [Anaconda Distribution](https://www.anaconda.com/download). Be sure to use the "Python 3.11.x" version. We will use the Conda Package Management System within the Anaconda Distribution. From the [documentation](https://conda.io/docs):
 > Conda is an open source package management system and environment management system that runs on Windows, macOS and Linux. Conda quickly installs, runs and updates packages and their dependencies. Conda easily creates, saves, loads and switches between environments on your local computer.
 
-After the installation run `python --version` in a terminal window (in "Anaconda Prompt" if you are using Windows). If the output show "Python 3.8.x" (and "Anaconda") you are good to go.
+After the installation run `python --version` in a terminal window (e.g. in "Anaconda Prompt" if you are using Windows). If the output show "Python 3.11.x" (and "Anaconda") you are good to go.
 
 
 # Notes on Colab:
@@ -434,7 +434,7 @@ Google Colab is an efficient and powerful tool for working on machine learning a
 After you have successfully installed Anaconda, Git, VS Code, and cloned the ELMED219 corse repository (see above): 
 
 ## Test your installation:
-Inspect and run the notebook [`0.0-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIVML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/00-test-installation.ipynb) in the `Lab1-mpMRI-glioblastoma/Lab-otional-imaging` directory:
+Inspect and run the notebook [`00-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIVML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/00-test-installation.ipynb) in the `Lab1-mpMRI-glioblastoma/Lab-otional-imaging` directory:
 ```bash
 cd Lab1-mpMRI-glioblastoma/Lab-otional-imaging
 jupyter notebook  (or, jupyter lab, or, code . )
