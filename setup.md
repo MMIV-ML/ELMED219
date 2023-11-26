@@ -13,6 +13,15 @@ _NOTE: ChatGPT can make mistakes. Consider checking important information._
 - [Are you using Windows?](#are-you-using-windows)
 - [Are you using Mac?](#are-you-using-mac)
 - [Are you using Linux?](#are-you-using-linux)
+- [Notes on the command line (shell) and Notebooks](#notes-on-the-command-line-shell-and-notebooks)
+- [Notes on GitHub](#notes-on-github)
+- [Notes on Anaconda](#notes-on-anaconda)
+- [Notes on Colab](#notes-on-colab)
+    - [What is Google Colab?](##what-is-google-colab)
+- [Install and test your course environment](#install-and-test-yoiur-course-environment)
+- [Unix shell](#unix-shell)
+- [Programming with Python](#programming-with-python)
+- [A note on R (tip for previous R users)](#a-note-on-r-tip-for-previous-r-users)
     - [Subsection 2.1](#subsection-21)
     - [Subsection 2.2](#subsection-22)
 
@@ -317,7 +326,7 @@ Then you are likely familiar with the command line (shell) and can modify the in
 
 
 
-## Notes on the command line (shell) and notebooks: 
+# Notes on the command line (shell) and notebooks: 
 
 #### On Mac, Windows and Linux we will use the [command line](https://en.wikipedia.org/wiki/Command-line_interface#Command-line_interpreter) (shell)
 See e.g. [Basic Unix Commands](https://people.duke.edu/~ccc14/pcfb/unix.html) and [Computing Skills for Biologists](https://computingskillsforbiologists.com) [[here](https://github.com/CSB-book/CSB)] if this is unfamiliar to you. See also the
@@ -326,7 +335,7 @@ See e.g. [Basic Unix Commands](https://people.duke.edu/~ccc14/pcfb/unix.html) an
 #### ... and luckily also the [Jupyter notebook](https://www.nature.com/articles/d41586-018-07196-1)
 - for openness [!](https://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261) and reproduciblity [!](https://arxiv.org/pdf/1810.08055.pdf)
 
-## Notes on GitHub:
+# Notes on GitHub:
 The course code is hosted on the code-sharing platform GitHub (where you now are reading this). If you do not have a GitHub account already you should make one now (https://github.com/join). We recommend that you are using the platform for your own projects during the course. Hence:
 
 
@@ -339,14 +348,14 @@ The course code is hosted on the code-sharing platform GitHub (where you now are
   - In the upper left corner click on the drop down with your name.
   - Confirm that the name of the course GitHub organization is present
 
-## Notes on Anaconda:
+# Notes on Anaconda:
 We recommend installing Python via the [Anaconda Distribution](https://www.anaconda.com/download). Be sure to use the "Python 3.11.x" version. We will use the Conda Package Management System within the Anaconda Distribution. From the [documentation](https://conda.io/docs):
 > Conda is an open source package management system and environment management system that runs on Windows, macOS and Linux. Conda quickly installs, runs and updates packages and their dependencies. Conda easily creates, saves, loads and switches between environments on your local computer.
 
 After the installation run `python --version` in a terminal window (in "Anaconda Prompt" if you are using Windows). If the output show "Python 3.8.x" (and "Anaconda") you are good to go.
 
 
-## Notes on Colab:
+# Notes on Colab:
 Alternatively, some of the Jupyter notebooks in the Labs can be executed on **Google Colaboratory**. Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing free access to computing resources including GPUs. Colab is free to use, and resources are not guaranteed and not unlimited, and the usage [resource limits](https://research.google.com/colaboratory/faq.html#resource-limits) sometimes fluctuate.
 
 Colab ode is executed in a virtual machine private to your account, i.e.
@@ -363,7 +372,7 @@ _I prefer to use COLAB in the course. Please provide information about colab and
 <img src="./assets/GPT-MedAI.png" width="370"> <br>
 Using Google Colab (short for Colaboratory) is a great choice for working on the ELMED219 course, especially if you prefer an environment that doesn't require local setup for Python and Jupyter Notebooks. Here's an overview and guidance on how to use Google Colab, including working with your own notebooks and data.
 
-### What is Google Colab?
+## What is Google Colab?
 - **Overview:** Google Colab is a free, cloud-based service that provides a Jupyter notebook environment. It allows you to write and execute Python in your browser, with zero configuration required, free access to GPUs, and easy sharing.
 - **Benefits:**
   - No setup: Run notebooks with no installation required.
@@ -420,11 +429,11 @@ Using Google Colab (short for Colaboratory) is a great choice for working on the
 
 Google Colab is an efficient and powerful tool for working on machine learning and data science projects, making it suitable for your ELMED219 course. It allows you to focus on learning and coding without worrying about your local environment setup. If you have specific needs or run into any issues, feel free to seek further assistance.
 
-## Install and test your course environment
+# Install and test your course environment
 
 After you have successfully installed Anaconda, Git, VS Code, and cloned the ELMED219 corse repository (see above): 
 
-### Test your installation:
+## Test your installation:
 Inspect and run the notebook [`0.0-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIVML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/00-test-installation.ipynb) in the `Lab1-mpMRI-glioblastoma/Lab-otional-imaging` directory:
 ```bash
 cd Lab1-mpMRI-glioblastoma/Lab-otional-imaging
@@ -441,17 +450,17 @@ conda activate elmed219
 conda env update
 ```
 
-## Unix Shell
+# Unix Shell
 
 Learners need to understand what files and directories are and what a working directory is. These concepts are covered in the
 [Unix Shell](http://swcarpentry.github.io/shell-novice) lessons (thanks to [Anne Fouilloux](https://www.mn.uio.no/geo/english/people/adm/annefou), UiO)
 
-## Programming with Python
+# Programming with Python
 
 The best way to learn how to program is to do something useful, so [this](http://swcarpentry.github.io/python-novice-inflammation) introduction to Python is built around a common scientific task: **data analysis** ("... _we are studying inflammation in patients who have been given a new treatment for arthritis, and need to analyze the first dozen data sets of their daily inflammation_ ..."); see also [here](https://github.com/swcarpentry/python-novice-inflammation).
 
 
-## A note on R (tip for previous R users)
+# A note on R (tip for previous R users)
 
 **It is possible to run R-scripts in Jupyter notebooks**  (Jupyter = Julia, Python and R).
 
