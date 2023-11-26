@@ -434,9 +434,9 @@ Google Colab is an efficient and powerful tool for working on machine learning a
 After you have successfully installed Anaconda, Git, VS Code, and cloned the ELMED219 corse repository (see above): 
 
 ## Test your installation:
-Inspect and run the notebook [`00-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/00-test-installation.ipynb) in the `Lab1-mpMRI-glioblastoma/Lab-otional-imaging` directory:
+Inspect and run the notebook [`00-test-installation.ipynb`](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/00-test-installation.ipynb) in the `Lab1-mpMRI-glioblastoma/Lab-optional-imaging` directory:
 ```bash
-cd Lab1-mpMRI-glioblastoma/Lab-otional-imaging
+cd Lab1-mpMRI-glioblastoma/Lab-optional-imaging
 jupyter notebook  (or, jupyter lab, or, code . )
 ```
 
