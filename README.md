@@ -46,9 +46,9 @@ The objective and content of the course address: The computational mindset, imag
 | 10:15-14:00                 | Information, SW-installation<br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vS5O7UsFk9c9-cS2KBTDxPq2MPdSjCa6z1RWQ8cPvWqtiQOkIpvFnPdZgccAbVr8cPAyOlLwuijHbPX/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI](https://www.dropbox.com/s/7ciwh1bxh5wyat4/ELMED219%20-%202023%20-Medical%20AI.pdf?dl=1)     |
 |                             | *Arvid Lundervold / N.N.*   |                                |
 | **Week 1<br>Thu, Jan 4**    |                                                                                        |
-| 14:15-15:00                 | About the course <br> [Tools], [teams] and [project]                                   |
+| 14:15-15:00                 | About the course <br> [Tools], [teams] and [project](./Project)                        |
 |                             | *Arvid Lundervold  / N.N.*                                                             |
-| 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)                         |
+| 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)              |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | **Week 1<br>Fri, Jan 5**    |                                                                                        |
 | 10:15-11:00                 | [LAB 0: Introduction to theory and tools for machine learning] cont.                   |
