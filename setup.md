@@ -17,7 +17,7 @@ _NOTE: ChatGPT can make mistakes. Consider checking important information._
 - [Notes on GitHub](#notes-on-github)
 - [Notes on Anaconda](#notes-on-anaconda)
 - [Notes on Colab](#notes-on-colab)
-    - [What is Google Colab?](##what-is-google-colab)
+    - [What is Google Colab?](#what-is-google-colab)
 - [Install and test your course environment](#install-and-test-yoiur-course-environment)
 - [Unix shell](#unix-shell)
 - [Programming with Python](#programming-with-python)
@@ -380,7 +380,7 @@ Using Google Colab (short for Colaboratory) is a great choice for working on the
   - Easy sharing: Just like Google Docs, you can share your Colab notebooks with others.
 - **Environment:** Colab runs notebooks on Google Cloud, meaning you can leverage their hardware (including GPUs and TPUs) and save your work on Google Drive.
 
-### Getting Started with Google Colab
+## Getting Started with Google Colab
 1. **Access Colab:**
    - Visit [Google Colab](https://colab.research.google.com/).
    - You'll need a Google account to use Colab.
@@ -392,7 +392,7 @@ Using Google Colab (short for Colaboratory) is a great choice for working on the
 3. **Interface Familiarization:**
    - The interface is similar to Jupyter Notebook. It has a menu bar, a toolbar, and cells where you can write and execute code or add text.
 
-### Using Your Own Notebooks and Data
+## Using Your Own Notebooks and Data
 - **Uploading Notebooks:**
   - You can upload your Jupyter notebooks (`.ipynb` files) directly to Colab from your local machine or integrate with GitHub to load notebooks.
 
@@ -410,19 +410,19 @@ Using Google Colab (short for Colaboratory) is a great choice for working on the
     This allows you to access files stored in Google Drive directly from your Colab notebooks.
   - **From External Sources:** You can also download data from external sources directly to Colab using `!wget [URL]` command or Python's requests library.
 
-### Running Code
+## Running Code
 - **Execute Cells:** Click the play button on the left of the code cell or use `Shift + Enter` to run the code.
 - **GPU/TPU Access:** For tasks requiring heavy computation, you can access GPUs/TPUs by going to `Runtime` > `Change runtime type` and selecting your preferred hardware accelerator.
 
-### Saving and Sharing Work
+## Saving and Sharing Work
 - **Auto-save:** Colab automatically saves your notebooks to your Google Drive.
 - **Sharing:** Share your notebooks just like a Google Doc by clicking the `Share` button and adding collaborators.
 
-### Additional Features
+## Additional Features
 - **Version Control:** Colab supports version history, allowing you to see previous versions of your notebook.
 - **Collaboration:** Multiple people can work on a notebook simultaneously, just like Google Docs.
 
-### Tips for Using Colab in Your Course
+## Tips for Using Colab in Your Course
 - **Regular Backups:** While Colab auto-saves to Drive, it's a good practice to keep local backups of important notebooks.
 - **Internet Dependency:** Since Colab is cloud-based, you'll need a stable internet connection to use it.
 - **Session Limits:** Be aware that Colab sessions are limited (runtime and GPU usage), and you might lose your session if you're inactive for too long or exceed usage limits.
