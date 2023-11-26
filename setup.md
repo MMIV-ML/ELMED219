@@ -10,8 +10,9 @@ If you have a subscription to [ChatGPT Pluss](https://openai.com/blog/chatgpt-pl
 _NOTE: ChatGPT can make mistakes. Consider checking important information._
 
 ## Table of Contents
-- [Are you using Windows?](#Are-you-using-Windows?)
-- [Are you using Mac?](##Are-you-using-Mac?)
+- [Are you using Windows?](#are-you-using-windows)
+- [Are you using Mac?](#are-you-using-mac)
+- [Are you using Linux?](#are-you-using-linux)
     - [Subsection 2.1](#subsection-21)
     - [Subsection 2.2](#subsection-22)
 
@@ -160,7 +161,7 @@ Understanding and using these command line tools can greatly enhance your effici
 
 
 
-## Are you using Mac?
+# Are you using Mac?
 Then you must install [xcode](https://developer.apple.com/xcode/resources) (for free) before you start. See also [here](https://medium.com/@LondonAppBrewery/how-to-download-and-setup-xcode-10-for-ios-development-b63bed1865c). Thereafter (see also [here](https://stackoverflow.com/questions/9329243/how-to-install-xcode-command-line-tools)):
 
 
@@ -311,7 +312,7 @@ Certainly! Working with course materials locally on macOS using the command line
 
 By combining these command-line skills with VS Code and Git, you'll have a powerful setup for managing and working on the ELMED219 course materials. If you have any specific questions or need further assistance, feel free to ask.
 
-## Are you using Linux?
+# Are you using Linux?
 Then you are likely familiar with the command line (shell) and can modify the installation procedures described for MacOS. 
 
 
