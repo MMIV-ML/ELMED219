@@ -22,10 +22,10 @@ This lab will give a quick example-based introduction to basic ideas in machine 
 
 | Notebook    |      1-Click Notebook     
 |:----------|------|
-|  [Lab0-01-simple-examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-simple-examples.ipynb)  <br>Constructs predictive models based on some simple data sets. Provides a hands-on introduction to some basic ingredients and techniques in ML. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-simple-examples.ipynb)<br>
+|  [Lab0-01-simple-examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-01-simple-examples.ipynb)  <br>Constructs predictive models based on some simple data sets. Provides a hands-on introduction to some basic ingredients and techniques in ML. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-01-simple-examples.ipynb)<br>
 
 </p>
----
+
 
 
 ## Your turn! 
