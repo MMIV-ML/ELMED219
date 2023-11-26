@@ -11,7 +11,7 @@ _NOTE: ChatGPT can make mistakes. Consider checking important information._
 
 
 ## Are you using Windows?
-Then you must install [Git for Windows](https://gitforwindows.org) (for free) before you start. See also [here](https://www.youtube.com/watch?v=J_Clau1bYco) and [here](https://www.youtube.com/watch?v=J_Clau1bYco). Thereafter:
+Then you must install [Git for Windows](https://gitforwindows.org) (for free) before you start. See also [here](https://www.youtube.com/watch?v=J_Clau1bYco). Thereafter:
 
 <img src="./assets/You.png" width="100"> <br>
 _How to set up and use GitHub and Jupyter notebooks on **Windows**, by (i) using Anaconda,  (ii) using Visual Studio Code, (iii)  initially cloning the ELMED219 course repository, (iv) activate its conda environment  "elmed219" as specified in "environment.yml" , and (v) being able to experiment with my own notebooks (making a local copy) in this environment without getting in conflict with the original repository?_
