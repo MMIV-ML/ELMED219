@@ -12,7 +12,7 @@ If you have a subscription to [ChatGPT Pluss](https://openai.com/blog/chatgpt-pl
 
 - Intro to Large Language Models by [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy) [[link](https://www.youtube.com/watch?v=zjkBMFhNj_g)] (59:47 min)
 
-  - Slides as PDF [[link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2Jhamk1al9kNGRWbDNHUFRiQVgybGM5MVh3QXxBQ3Jtc0tsR010ajlIMFd3c1U5RGlCT1Q3ZGdadWpJVkhTVUZmb1FQTldQRE5HNlRON3pfUEgyZXhSbDNDQzA2Sjk0QVc5Y2lGSHJSTXBlemYwRldyeTV6XzhCRjZjWnhtTHFhcW5BaDRSWmJWMERYcmQ3QXhBTQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7%2Fview%3Fusp%3Dshare_link&v=zjkBMFhNj_g)] (42MB)
+  - Slides as PDF [[link](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view)] (42MB)
   - Slides as Keynote [[link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDhhc2s2ZEs4Zm83NlNVWGF3VUZXVWdLb0VVZ3xBQ3Jtc0tuR0tUcjdJR0l4ekNUeWVpWk5mQkNZS1h2eXd0dFBsZzJZMUQxQ1NvMzM2ZlFTdEZqOEdxMEc3MHBYSEsxU1Y3cDJDSXplX3dyUDJ1Z051aENvdG5TUjZhRjZPTkNMZGFyMkRIU1pmMjZXdnI5NTdKWQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u%2Fview%3Fusp%3Dshare_link&v=zjkBMFhNj_g)] (140MB)
   - The repo: https://github.com/karpathy
 
