@@ -9,6 +9,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ## Learning motivations - watch these
 (in the order of duration ...)
 
+- _Foundation Models: An Explainer for Non-Experts_ by [**Stanford HAI**](https://crfm.stanford.edu) [[link](https://youtu.be/kK3NmQT241w)] (2:08 min) Stanford Center for Research on Foundation Models [code](https://github.com/stanford-crfm)
+
 - _The Exciting, Perilous Journey Toward AGI_, **TED talk** by [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever) (OpenAI) [[link](https://www.youtube.com/watch?v=SEkGLj0bwAU)] (12:25 min)
 
 - _Introduction to large language models_ by [John Ewald](https://www.linkedin.com/in/ewaldjohn) Google Cloud Tech [[link](https://www.youtube.com/watch?v=zizonToFXDs)] (15:45 min)
