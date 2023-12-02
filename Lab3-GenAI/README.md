@@ -28,7 +28,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
   - Slides as Keynote [[link](https://drive.google.com/file/d/1FPUpFMiCkMRKPFjhi9MAhby68MHVqe8u/view)] (140MB)
   - The repo: https://github.com/karpathy
  
-- _Large Language Models and The End of Programming_, CS50 Tech Talk with [Matt Welsh](https://en.wikipedia.org/wiki/Matt_Welsh_\(computer_scientist\)) [[link](https://www.youtube.com/watch?v=JhCl-GeT4jw)] ([CS50](https://www.edx.org/cs50) is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming) (66:55 min)
+- _Large Language Models and The End of Programming_, CS50 Tech Talk with [Matt Welsh](https://en.wikipedia.org/wiki/Matt_Welsh_\(computer_scientist\)) [[link](https://www.youtube.com/watch?v=JhCl-GeT4jw)]  (66:55 min)
+  - [CS50](https://www.edx.org/cs50) is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming
 
 
 ## Slides
