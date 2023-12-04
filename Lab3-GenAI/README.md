@@ -41,6 +41,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ### Readings:
 (in the order of most recent ...)
 
+- Oniani D et al. _Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare_ (perspective article published 2 Dec 2023). npj Digital Medicine 2023;6:225. Addresses the ethical dilemmas and challenges posed by the integration of generative AI into healthcare practice, compared with genAI in military use. CC-BY-4.0 [[link](https://www.nature.com/articles/s41746-023-00965-x)] [[pdf](https://www.nature.com/articles/s41746-023-00965-x.pdf)]
+  
 - Toma A et al. _Generative AI could revolutionize health care — but not if control is ceded to big tech_ (comment published 30 Nov 2023). Nature 2023;624:36-38. [[link](https://www.nature.com/articles/d41586-023-03803-y)]
 
 - Thirunavukarasu AJ et al. _Large language models in medicine_   (review article published 17 Jul 2023) Nature Medicine 2023;29:1930–1940. [[link](https://www.nature.com/articles/s41591-023-02448-8)]
