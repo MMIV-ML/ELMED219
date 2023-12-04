@@ -39,6 +39,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 
 ### Readings:
+(in the order of most recent ...)
 
 - Toma A et al. _Generative AI could revolutionize health care — but not if control is ceded to big tech_ (comment published 30 Nov 2023). Nature 2023;624:36-38. [[link](https://www.nature.com/articles/d41586-023-03803-y)]
 
