@@ -24,7 +24,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
   - see also his "A framework for shaping the future of AI in health care" [[link](https://shahlab.stanford.edu)]
 
 - _GTP-4 - Complete Beginners Guide_ by   [[link](https://www.youtube.com/watch?v=T4GA0z6ccmo)]  (19:12 min)
-- 
+  
 - _Introduction to Generative AI_ by [Gwendolyn Stripling](https://www.linkedin.com/in/gwendolyn-stripling)  Google Cloud Tech [[link](https://www.youtube.com/watch?v=G2fqAlgmoPo)]   (22:07 min)
   - see also her [_Low-code AI_](https://www.amazon.com/dp/1098146824/ref=tsm_1_fb_lk) book with [code](https://github.com/maabel0712/low-code-ai)
 
@@ -37,6 +37,15 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - _Large Language Models and The End of Programming_, CS50 Tech Talk with [Matt Welsh](https://en.wikipedia.org/wiki/Matt_Welsh_\(computer_scientist\)) [[link](https://www.youtube.com/watch?v=JhCl-GeT4jw)]  (66:55 min)
   - [CS50](https://www.edx.org/cs50) is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming
 
+
+### Readings:
+
+- Toma A et al. _Generative AI could revolutionize health care — but not if control is ceded to big tech_ (comment published 30 Nov 2023). Nature 2023;624:36-38 [[link](https://www.nature.com/articles/d41586-023-03803-y]]
+
+- Thirunavukarasu AJ et al. _Large language models in medicine_   (review article published 17 Jul 2023) Nature Medicine 2023;29:1930–1940 [[link](https://www.nature.com/articles/s41591-023-02448-8)]
+
+- Moore M et al. _Foundation models for generalist medical artificial intelligence (perspective article published 12 Apr 2023) Nature 2023;616:259–265. A seminal paper on foundation models in medicine (GMAI). [[link](https://www.nature.com/articles/s41586-023-05881-4)]
+  
 
 ## Slides
 
