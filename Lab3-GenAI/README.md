@@ -18,6 +18,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
   
 - _The Exciting, Perilous Journey Toward AGI_, **TED talk** by [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever) (OpenAI) [[link](https://www.youtube.com/watch?v=SEkGLj0bwAU)] (12:25 min)
 
+- _Can AI Catch What Doctors Miss?_,  **TED talk** by [Eric Topol](https://www.scripps.edu/faculty/topol) [[link](https://www.youtube.com/watch?v=ll5LY7wI_Xc)] (14:06 min)
+
 - _Introduction to large language models_ by [John Ewald](https://www.linkedin.com/in/ewaldjohn) Google Cloud Tech [[link](https://www.youtube.com/watch?v=zizonToFXDs)] (15:45 min)
 
 - _Large Language Models for Health 101_ by [Nigam Shah](https://profiles.stanford.edu/nigam-shah),  **Stanford HAI**  [[link](https://www.youtube.com/watch?v=b88FZYNJdIk)] (16:44 min)
