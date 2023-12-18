@@ -51,7 +51,7 @@ The objective and content of the course address: The computational mindset, imag
 | 15:15-16:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)              |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | **Week 1<br>Fri, Jan 5**    |                                                                                        |
-| 10:15-11:00                 | [LAB 0: Introduction to theory and tools for machine learning] cont.                   |
+| 10:15-11:00                 | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML) cont.                   |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | 11:15-13:00                 |  [LAB 1: Brain imaging (mpMRI) in glioblastoma]                                        |
 |                             | *Arvid Lundervold*                                                                     |
