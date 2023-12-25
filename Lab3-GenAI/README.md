@@ -1,6 +1,6 @@
 # Lab 3: Generative AI and Large Language Models
 
-This lab is part of our journey through computational modeling techniques and AI in biomedical and clinical applications. It is designed to give you a comprehensive understanding of how generative AI is transforming society in general and healthcare in particular and the role it will play in the future of medicine.<br>  _update: 2023-12-16_
+This lab is part of our journey through computational modeling techniques and AI in biomedical and clinical applications. It is designed to give you a comprehensive understanding of how generative AI is transforming society in general and healthcare in particular and the role it will play in the future of medicine.<br>  _update: 2023-12-25_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -15,6 +15,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
    - and get informed and be inspired by [Azeem Azhar](https://www.linkedin.com/in/azhar/?originalSubdomain=uk)’s 2020 conversation with the pioneering AI scientist [Fei-Fei Li](https://en.wikipedia.org/wiki/Fei-Fei_Li), professor of computer science at Stanford University and the founding co-director of Stanford’s Human-Centered AI Institute [[link](https://hbr.org/podcast/2023/11/azeems-picks-the-promise-of-ai-with-fei-fei-li)] (37:46 min)
 
 - _Introducing GPT-4_ by [**OpenAI**](https://openai.com) [[link](https://www.youtube.com/watch?v=--khbXchTeE)] (3:12 min)
+
+- _What ChatGPT is and what it's not: A three minutes guide_ by [Richard Van Noorden](https://www.linkedin.com/in/richard-van-noorden), Features Editor, _Nature_  [[link](https://youtu.be/f70ME-IfeMU)] (3:51 min)
   
 - _The Exciting, Perilous Journey Toward AGI_, **TED talk** by [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever) (OpenAI) [[link](https://www.youtube.com/watch?v=SEkGLj0bwAU)] (12:25 min)
 
