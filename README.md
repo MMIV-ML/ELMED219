@@ -62,19 +62,19 @@ The objective and content of the course address: The computational mindset, imag
 | 08:15-13:00                 | [Lab 2: Deep learning]                                                                 |
 |                             | *N.N. / Arvid Lundervold*                                                              |
 | **Week 2<br>Fri, Jan 12**   |                                                                                        |
-| 08:15-13:00                 | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                                        |
-|                             | *Arvid Lundervold*                                                              |
-| **Week 3<br>Team project**  |  Joint with BMED365 - Working on project in interdisciplinary teams                   |
+| 08:15-13:00                 | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
+|                             | *Arvid Lundervold*                                                                     |
+| **Week 3<br>Team project**  |  Joint with BMED365 - Working on project in interdisciplinary teams                    |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
 | 09:00-12:00                 | Crash-course in Python programming                                                     |
 |                             | *Ben Bjørsvik*                                                                         |
 | 13:00-16:00                 | Meet-up for team project brainstorming and coaching                                    |
 |                             | *Arvid Lundervold / N.N.*                                                              |
 |  **Week 4<br>Wed, Jan 24**  |                                                                                        |
-| 08:15-10:00                 | Project presentations by team  (jointly with BMED365)                                 |
-|                             | *Arvid Lundervold / N.N.*                                                             |
-| **Week 4<br>Fri, Jan 26**   |                                                                                       |
-| 16:00                       | Deadline for the Team Project Report - joint with BMED365 (hand in via MittUiB)       |
+| 08:15-10:00                 | Project presentations by team  (jointly with BMED365)                                  |
+|                             | *Arvid Lundervold / N.N.*                                                              |
+| **Week 4<br>Fri, Jan 26**   |                                                                                        |
+| 16:00                       | Deadline for the Team Project Report - joint with BMED365 (hand in via MittUiB)        |
 |**Fri, Jan 26** | 
 ||**Home exam**: Duration: 2 hours;  <br>Assignment is handed out: 26.01.2024, 13:00; <br>Submission deadline: 26.01.2024, 15:00; <br>Examination system: Inspera Digital exam
 
