@@ -9,6 +9,16 @@ This lab will give a quick example-based introduction to basic ideas in **machin
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vR0KosuGRHqFKR1X-LmggiR-6wdfFSdsYdIIfDIcXYQ6qg1wW0hqHrsWIQJCMqbRLM3ouCGoen--SEl/pub?start=false&loop=false&delayms=3000"><img src="assets/slide0-networks.png"></a>
 
+## Other resources on Graphs and Networks
+A. Lundervold \& the Medical AI Assistant: _Elements of graph theory and patient similarity networks (PSN) - A short introduction for ELMED219+BMED365_ [[PDF](./assets/ELMED219_BMED365_2024_PSN.pdf)] [[$\LaTeX$](https://www.overleaf.com/read/pccnktqbnswg#4f47e2)]
+
+For medical and biomedical students new to graph theory, the following online tutorials and resources provide a gentle introduction:
+
+- **Khan Academy Introduction to Graph Theory:** A beginner-friendly series covering basic concepts and applications. [Khan Academy Graph Theory](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs)
+    
+- **Graph Theory Tutorials by Sarada Herke:** A YouTube playlist offering visual and intuitive explanations of graph theory concepts. [Sarada Herke's Graph Theory Tutorials](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
+    
+- **Introduction to Graph Theory from University of Waterloo:** Detailed course notes suitable for those seeking a more academic approach. [University of Waterloo Graph Theory](https://www.cemc.uwaterloo.ca/events/mathcircles/2016-17/Winter/Senior_Mar22.pdf)
 
 <!-- Here's a short extra video that goes through a very similar notebook to the one we use in this lab: https://www.youtube.com/watch?v=OhxUgFNnj1U. You may want to watch this as well. -->
 
