@@ -20,9 +20,9 @@ In the following series of Jupyter notebooks will explore **digital imaging** & 
 The notebooks will also illustrate the **generic nature of computational imaging** applied to data collection _in vivo_ and _in vitro_ and at different spatial scale.
 
 ----------
-- [**00-test-installation.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/00-test-installation.ipynb) (requires local installation, cf. `environment.yml` and `setup.md`)
+- [**00-test-installation.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/00-test-installation.ipynb) (requires local installation, cf. `environment.yml` and `setup.md`)
 
-- [**01-imaging-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/01-imaging-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/01-imaging-intro.ipynb">
+- [**01-imaging-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/01-imaging-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/01-imaging-intro.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 The notebook will download illustrative **assets** from Google Drive cloud:
@@ -79,7 +79,7 @@ assets
 ├── volume_rendering.png
 └── Zebra_running_Ngorongoro.jpg
 ```
-- [**02-mri-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/02-mri-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/02-mri-intro.ipynb">
+- [**02-mri-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/02-mri-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/02-mri-intro.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 <!--
@@ -123,7 +123,7 @@ data
     └── training_mask_1_6.nii.gz
 ```
 
-- [**03-imc-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/03-imc-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioblastoma/Lab-optional-imaging/03-imc-intro.ipynb">
+- [**03-imc-intro.ipynb**](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/03-imc-intro.ipynb)<a href="https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab-optional-imaging/03-imc-intro.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  (see also `IMC.md`)
 
 <!--
@@ -192,8 +192,7 @@ data
 - **The (web) [Bloch simulator](http://drcmr.dk/new-bloch-simulator)** from the Danish Research Centre for Magnetic Resonance and TDU (http://drcmr.dk/BlochSimulator)
 - **MRiLab** A Numerical Magnetic Resonance Imaging Simulation Platform in MATLAB by Fang Liu (https://github.com/leoliuf/MRiLab)
 
-- **MRI-education-resources** UCSF Peder Larson Research Group
- (https://github.com/LarsonLab/MRI-education-resources/tree/master/Notebooks) _Highly recommended_
+- **MRI-education-resources** UCSF Peder Larson Research Group (https://github.com/LarsonLab/MRI-education-resources) _Highly recommended_
 
 - **Pulse sequence graphics** by Daniel Gomez (https://github.com/dangom/mr-sequence-diagrams/blob/master/README.org)
 
