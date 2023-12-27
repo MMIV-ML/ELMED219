@@ -193,7 +193,7 @@ data
 - **MRiLab** A Numerical Magnetic Resonance Imaging Simulation Platform in MATLAB by Fang Liu (https://github.com/leoliuf/MRiLab)
 
 - **MRI-education-resources** UCSF Peder Larson Research Group
- (https://github.com/LarsonLab/MRI-education-resources/tree/master/Notebooks)
+ (https://github.com/LarsonLab/MRI-education-resources/tree/master/Notebooks) _Highly recommended_
 
 - **Pulse sequence graphics** by Daniel Gomez (https://github.com/dangom/mr-sequence-diagrams/blob/master/README.org)
 
