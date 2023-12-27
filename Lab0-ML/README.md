@@ -34,6 +34,7 @@ For medical and biomedical students new to graph theory, the following online tu
 
 | Notebook    |      1-Click Notebook     
 |:----------|------|
+|  [Lab0-00-jupyter-notebook-markdown-basics.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-00-jupyter-notebook-markdown-basics.ipynb) <br> Jupyter notebooks and Markdown cells! In this notebook, we'll present non-coding cells in Jupyter notebooks to document and display information associated with coding cells. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-00-jupyter-notebook-markdown-basics.ipynb)<br>
 |  [Lab0-01-simple-examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-01-simple-examples.ipynb)  <br>Constructs predictive models based on some simple data sets. Provides a hands-on introduction to some basic ingredients and techniques in ML. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-01-simple-examples.ipynb)<br>
 
 </p>
