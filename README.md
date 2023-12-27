@@ -55,11 +55,11 @@ The objective and content of the course address: The computational mindset, imag
 |                             | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML)              |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | 11:15-13:00                 | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML) cont.        |
-|                             | [LAB 1: Brain imaging (mpMRI) in glioma]                                         |
+|                             | [LAB 1: Brain imaging (mpMRI) in glioma](./Lab1-mpMRI-glioma)                                         |
 |                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
 | **Week 2<br>Tue, Jan 9**    |                                                                                        |
-| 08:15-13:00                 | [Lab 2: Deep learning]                                                                 |
+| 08:15-13:00                 | [Lab 2: Deep learning](./Lab2-DL)                                                                 |
 |                             | *N.N. / Arvid Lundervold*                                                              |
 | **Week 2<br>Fri, Jan 12**   |                                                                                        |
 | 08:15-13:00                 | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
