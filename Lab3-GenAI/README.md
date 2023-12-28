@@ -69,6 +69,7 @@ This **guide (https://platform.openai.com/docs/guides/prompt-engineering)** is h
 - **Use external tools** [[link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-use-external-tools)]
 - **Test changes systematically** [[link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-test-changes-systematically)]
 
+---------------
 
 ## Slides
 
