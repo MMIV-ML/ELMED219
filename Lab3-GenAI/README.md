@@ -58,7 +58,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 ## OpenAI: Prompt engineering guide
 
-This **guide (https://platform.openai.com/docs/guides/prompt-engineering)** is highly recommended and shares strategies and tactics for getting better results from large language models like GPT-4. The methods (Six strategies) described in this guide can sometimes be combined for greater effect. Experimentation is encouraged to find the methods that work best for your intentions.
+This **guide (https://platform.openai.com/docs/guides/prompt-engineering)** is highly recommended and shares strategies and tactics for getting better results from large language models like GPT-4. The methods (Six strategies, each with a set of tactics) described in this guide can sometimes be combined for greater effect. Experimentation is encouraged to find the methods that work best for your intentions.
 
 ### The Six strategies for getting better results:
 
