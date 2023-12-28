@@ -56,9 +56,19 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - Moore M et al. _Foundation models for generalist medical artificial intelligence_ (perspective article published 12 Apr 2023) Nature 2023;616:259–265. A seminal paper on foundation models in medicine (GMAI). [[link](https://www.nature.com/articles/s41586-023-05881-4)]
   
 
-## OpenAI Prompt engineering guide
+## OpenAI: Prompt engineering guide
 
-This **guide (https://platform.openai.com/docs/guides/prompt-engineering)** is highly recommended and shares strategies and tactics for getting better results from large language models (sometimes referred to as GPT models) like GPT-4. The methods described here can sometimes be deployed in combination for greater effect. Experimentation is encouraged to find the methods that work best for your purposes.
+This **guide (https://platform.openai.com/docs/guides/prompt-engineering)** is highly recommended and shares strategies and tactics for getting better results from large language models like GPT-4. The methods (Six strategies) described in this guide can sometimes be combined for greater effect. Experimentation is encouraged to find the methods that work best for your intentions.
+
+### The Six strategies for getting better results:
+
+- **Write clear instructions** [[link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-write-clear-instructions)]
+- **Provide reference text** [[link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-provide-reference-text)]
+- **Split complex tasks into simpler subtasks** [[link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-split-complex-tasks-into-simpler-subtasks)]
+- **Give the model time to "think"** [[link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-give-models-time-to-think)]
+- **Use external tools** [[link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-use-external-tools)]
+- **Test changes systematically** [[link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-test-changes-systematically)]
+
 
 ## Slides
 
