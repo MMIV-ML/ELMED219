@@ -43,7 +43,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - _Large Language Models and The End of Programming_, CS50 Tech Talk with [Matt Welsh](https://en.wikipedia.org/wiki/Matt_Welsh_\(computer_scientist\)) [[link](https://www.youtube.com/watch?v=JhCl-GeT4jw)]  (66:55 min)
   - [CS50](https://www.edx.org/cs50) is Harvard University's introduction to the intellectual enterprises of computer science and the art of programming
 
+- _Large Language Models (LLMs) Concenpts_, [DataCamp](https://app.datacamp.com) interactive course, Beginner (+ [Understanding Machine Learning](https://app.datacamp.com/learn/courses/understanding-machine-learning)), **15 videos**, **50 exercises**, [[link](https://app.datacamp.com/learn/courses/large-language-models-llms-concepts)] (~120 min)
 
+  
 ### Readings:
 (in the order of most recent ...)
 
