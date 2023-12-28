@@ -1,6 +1,6 @@
 # Lab 3: Generative AI and Large Language Models
 
-This lab is part of our journey through computational modeling techniques and AI in biomedical and clinical applications. It is designed to give you a comprehensive understanding of how generative AI is transforming society in general and healthcare in particular and the role it will play in the future of medicine.<br>  _update: 2023-12-25_
+This lab is part of our journey through computational modeling techniques and AI in biomedical and clinical applications. It is designed to give you a comprehensive understanding of how generative AI is transforming society in general and healthcare in particular and the role it will play in the future of medicine.<br>  _update: 2023-12-28_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -55,6 +55,10 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - Moore M et al. _Foundation models for generalist medical artificial intelligence_ (perspective article published 12 Apr 2023) Nature 2023;616:259–265. A seminal paper on foundation models in medicine (GMAI). [[link](https://www.nature.com/articles/s41586-023-05881-4)]
   
+
+## OpenAI Prompt engineering guide
+
+This **guide (https://platform.openai.com/docs/guides/prompt-engineering)** is highly recommended and shares strategies and tactics for getting better results from large language models (sometimes referred to as GPT models) like GPT-4. The methods described here can sometimes be deployed in combination for greater effect. Experimentation is encouraged to find the methods that work best for your purposes.
 
 ## Slides
 
