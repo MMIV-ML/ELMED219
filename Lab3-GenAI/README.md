@@ -69,6 +69,17 @@ This **guide (https://platform.openai.com/docs/guides/prompt-engineering)** is h
 - **Use external tools** [[link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-use-external-tools)]
 - **Test changes systematically** [[link](https://platform.openai.com/docs/guides/prompt-engineering/strategy-test-changes-systematically)]
 
+
+### Other OpenAI resources
+
+- Experiment with [ChatGPT](https://chat.openai.com)
+- Stay updated with the [OpenAI Blog](https://openai.com/blog)
+- Try the API in the [OpenAI Playground](https://beta.openai.com/playground) (a platform to interact with AI models)
+- Read about the API in the [OpenAI Documentation](https://beta.openai.com/docs/introduction)
+- Get help in the [OpenAI Help Center](https://help.openai.com/en)
+- Discuss the API in the [OpenAI Community Forum](https://community.openai.com/top?period=monthly) or [OpenAI Discord channel](https://discord.com/invite/openai)
+- See example prompts in the [OpenAI Examples](https://beta.openai.com/examples)
+
 ---------------
 
 ## Slides
