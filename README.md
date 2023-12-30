@@ -71,7 +71,7 @@ The objective and content of the course address: The computational mindset, imag
 |                             | *Arvid Lundervold / N.N.*                                                              |
 |  **Week 4<br>Wed, Jan 24**  |                                                                                        |
 | 08:15-10:00<br>BB Hist 1    | Project presentations by team  (jointly with BMED365)                                  |
-|                             | *Arvid Lundervold / N.N.*                                                              |
+|                             | *Arvid Lundervold / Ben Bjørsvik*                                                      |
 | **Week 4<br>Fri, Jan 26**   |                                                                                        |
 | 16:00                       | Deadline for the Team Project Report - joint with BMED365 (hand in via MittUiB)        |
 |**Fri, Jan 26** | 
