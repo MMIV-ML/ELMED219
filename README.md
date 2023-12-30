@@ -55,20 +55,20 @@ The objective and content of the course address: The computational mindset, imag
 |                             | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML)              |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | 11:15-13:00<br>BB Hist 1    | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML) cont.        |
-|                             | [LAB 1: Brain imaging (mpMRI) in glioma](./Lab1-mpMRI-glioma)                                         |
+|                             | [LAB 1: Brain imaging (mpMRI) in glioma](./Lab1-mpMRI-glioma)                          |
 |                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
 | **Week 2<br>Tue, Jan 9**    |                                                                                        |
-| 08:15-13:00<br>BB Hist 1    | [Lab 2: Deep learning](./Lab2-DL)                                                                 |
-|                             | *N.N. / Arvid Lundervold*                                                              |
+| 09:15-13:00<br>BB Hist 1    | Crash-course in Python programming                                                     |
+|                             |  *Ben Bjørsvik*                                                                        |
 | **Week 2<br>Fri, Jan 12**   |                                                                                        |
-| 08:15-13:00<br>BB Hist 1    | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
-|                             | *Arvid Lundervold*                                                                     |
+| 08:15-13:00<br>BB Hist 1    |  [Lab 2: Deep learning](./Lab2-DL)                                                     |
+|                             | *Arvid Lundervold / N.N.*                                                              |
 | **Week 3<br>Team project**  |  Joint with BMED365 - Working on project in interdisciplinary teams                    |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
-| 09:00-12:00<br>BB Hist 1    | Crash-course in Python programming                                                     |
-|                             | *Ben Bjørsvik*                                                                         |
-| 13:00-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
+| 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
+|                             |                                                                                        |
+| 13:15-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
 |                             | *Arvid Lundervold / N.N.*                                                              |
 |  **Week 4<br>Wed, Jan 24**  |                                                                                        |
 | 08:15-10:00<br>BB Hist 1    | Project presentations by team  (jointly with BMED365)                                  |
