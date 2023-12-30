@@ -12,7 +12,7 @@ This lab will give an example-based introduction to multiparametric Magnetic Res
 
 <hr>
 
-The following notebook is essentially a copy of the multi-class semantic segmentation notebook `10d_tutorial_multiclass_segmentation.ipynb` from `fastMONAI`, and also incoporating parts of the extended notebook in https://github.com/MMIV-ML/fastMONAI/tree/master/presentations/MMIV-1022. We will not have time for a detailed introduction to MONAI. Please consult the documentation: https://monai.io and also see their tutorials.
+The following notebook is essentially a copy of the multi-class semantic segmentation notebook `10d_tutorial_multiclass_segmentation.ipynb` from [`fastMONAI`](https://fastmonai.no) (developed by Satheshkumar Kaliyugarasan and Alexander S. Lundervold at [MMIV](https://mmiv.no/machinelearning), and also incoporating parts of the extended notebook in https://github.com/MMIV-ML/fastMONAI/tree/master/presentations/MMIV-1022. We will not have time for a detailed introduction to MONAI. Please consult the documentation: https://monai.io and also see their tutorials.
 
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
