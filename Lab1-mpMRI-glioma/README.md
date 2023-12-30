@@ -12,9 +12,11 @@ This lab will give an example-based introduction to multiparametric Magnetic Res
 
 <hr>
 
+The following notebook is essentially a copy of the multi-class semantic segmentation notebook `10d_tutorial_multiclass_segmentation.ipynb` from `fastMONAI`, and also incoporating parts of the extended notebook in https://github.com/MMIV-ML/fastMONAI/tree/master/presentations/MMIV-1022. We will not have time for a detailed introduction to MONAI. Please consult the documentation: https://monai.io and also see their tutorials.
+
 | Notebook    |      1-Click Notebook      |
 |:----------|------|
-|  [Lab1-1-BRATS-3D-fastMONAI-extended.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab1-1-BRATS-3D-fastMONAI-extended.ipynb)<br> Illustration of basic concepts and methods in imaging   | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab1-1-BRATS-3D-fastMONAI-extended.ipynb)|
+|  [Lab1-1-BRATS-3D-fastMONAI-extended.ipynb](https://nbviewer.jupyter.org/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab1-1-BRATS-3D-fastMONAI-extended.ipynb)<br> Multi-class semantic segmentation of a glioma from mpMRI recordings  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab1-mpMRI-glioma/Lab1-1-BRATS-3D-fastMONAI-extended.ipynb)|
 
 
 ### Going deeper (wider)?
