@@ -3,7 +3,7 @@
 slides
 
 # Ignore large dataset (>= 100 MB)
-Lab1-mpMRI-glioblastoma/data/Task01_BrainTumour*
+Lab1-mpMRI-glioma/data/Task01_BrainTumour*
 
 # Avoid interference with the ELMED219 repo when using private notebooks for experimentation
 MyNotebooks/
