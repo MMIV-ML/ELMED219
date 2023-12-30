@@ -47,14 +47,13 @@ The objective and content of the course address: The computational mindset, imag
 |                             | *Arvid Lundervold / Alexander S. Lundervold*   |                                |
 | **Week 1<br>Thu, Jan 4**    |                                                                                        |
 | 14:15-15:00<br>BB Hist 1    | [About the course](https://docs.google.com/presentation/d/e/2PACX-1vSWy5OFMCYXF74CveeTSkEhuL1zwhKUFVe8Y-_gya6h4RfM7Ce6RP8XifS4QleOo7cPrjZOCdRu_IfW/pub?start=false&loop=false&delayms=3000) <br> [Tools](https://docs.google.com/presentation/d/e/2PACX-1vRdRU-f2zRfXkuTjIu2xq1tBig-cR2_gauXl3GlQhhB8Yh68wV5qzkySJWHOhU3dfcrNCNBhdZfxSUT/pub?start=false&loop=false&delayms=3000), [teams] and [project](./Project)            |
-|                             | *Arvid Lundervold  / Ben Bjørsvik*                                                             |
+|                             | *Arvid Lundervold  / Ben Bjørsvik*                                                     |
 | 15:15-16:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)              |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | **Week 1<br>Fri, Jan 5**    |                                                                                        |
 | 10:15-11:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML) cont.        |
-|                             | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML)              |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
-| 11:15-13:00<br>BB Hist 1    | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML) cont.        |
+| 11:15-15:00<br>BB Hist 1    | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML)              |
 |                             | [LAB 1: Brain imaging (mpMRI) in glioma](./Lab1-mpMRI-glioma)                          |
 |                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
