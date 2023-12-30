@@ -66,6 +66,7 @@ The objective and content of the course address: The computational mindset, imag
 | **Week 3<br>Team project**  |  Joint with BMED365 - Working on project in interdisciplinary teams                    |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
 | 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
+|                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
 | 13:15-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
 |                             | *Arvid Lundervold / N.N.*                                                              |
