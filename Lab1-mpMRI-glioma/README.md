@@ -4,6 +4,8 @@ This lab will give an example-based introduction to multiparametric Magnetic Res
 
 ## Slides
 
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vRc51VLi_fbENjJxXWjKg9i8F05IRoDl7TWmXGqbOc-AnmyOS_VaonCzgSOsT0aAgfH1lvHzc2y_F-F/pub?start=false&loop=false&delayms=3000"><img src="assets/slide_1_team_project.png"></a>
+
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vTK7ut3BT-pGtQiC53Vu7KAVt6wvtOF7Y1NhAziSyCc-E4AGuwRN778fsi86UMry7ZsNJ7rrGVAeAnM/pub?start=false&loop=false&delayms=3000"><img src="assets/Lab1_first_slide.png"></a>
 
 
