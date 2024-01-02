@@ -37,6 +37,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - _Geoffrey Hinton: Large Language Models in Medicine. They Understand and Have Empathy_ by [Eric Topol](https://en.wikipedia.org/wiki/Eric_Topol), [Ground Truth](https://erictopol.substack.com/about) (highly recommended podcast, with transcript)  [[link](https://erictopol.substack.com/p/geoffrey-hinton-large-language-models)] (36:33 min)
 
+- _Embeddings: What they are and why they matter_ by [Simon Willison](https://simonwillison.net/about) [[link](https://youtu.be/ArnMdc-ICCM?si=NodSkzQ8tpLUMPnS)] (38:37)
+  - see also his informative [[Webblog](https://simonwillison.net/2023/Oct/23/embeddings)] on the same topic.
+
 - _Intro to Large Language Models_ by [Andrej Karpathy](https://en.wikipedia.org/wiki/Andrej_Karpathy) [[link](https://www.youtube.com/watch?v=zjkBMFhNj_g)] (59:47 min)
 
   - Slides as PDF [[link](https://drive.google.com/file/d/1pxx_ZI7O-Nwl7ZLNk5hI3WzAsTLwvNU7/view)] (42MB)
