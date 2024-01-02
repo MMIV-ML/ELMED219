@@ -5,13 +5,16 @@ This lab will give a quick example-based introduction to basic ideas in **machin
 
 ## Slides
 
+## Machine Learning
 <!-- Commented as this slide deck is covered in the "Motivation_MedicalAI" slide deck
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vREHZA9OSvQa2fOGGDikHF_gDZz0tzgaARVmsjXq7xjFlwDDlkmMSDEvZ5Sa9GflbTybFJLQ3IqltjR/pub?start=false&loop=false&delayms=3000"><img src="assets/lab0-slides.png"></a>
 -->
 
+## Graphs and Networks
+
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vR0KosuGRHqFKR1X-LmggiR-6wdfFSdsYdIIfDIcXYQ6qg1wW0hqHrsWIQJCMqbRLM3ouCGoen--SEl/pub?start=false&loop=false&delayms=3000"><img src="assets/slide0-networks.png"></a>
 
-## Other resources on Graphs and Networks
+### Other resources on Graphs and Networks
 A. Lundervold \& the Medical AI Assistant: _Elements of graph theory and patient similarity networks (PSN) - A short introduction for ELMED219+BMED365_ [[PDF](./assets/ELMED219_BMED365_2024_PSN.pdf)] [[$\LaTeX$](https://www.overleaf.com/read/pccnktqbnswg#4f47e2)]
 
 For medical and biomedical students new to graph theory, the following online tutorials and resources provide a gentle introduction:
