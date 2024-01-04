@@ -26,7 +26,7 @@ The focus of the assignment is
 
 ### Data management plan and ethical considerations
 (1 1/2-2 1/2 pages incl. graphics / links)
- - Description of generated data and code
+ - Description of collected/generated data and code
  - Sharing of data and code
  - Ethical considerations
 
