@@ -10,7 +10,7 @@ This lab will give a quick example-based introduction to basic ideas in **machin
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vREHZA9OSvQa2fOGGDikHF_gDZz0tzgaARVmsjXq7xjFlwDDlkmMSDEvZ5Sa9GflbTybFJLQ3IqltjR/pub?start=false&loop=false&delayms=3000"><img src="assets/lab0-slides.png"></a>
 -->
 
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vQN5LeGJ_lafM2zrZx5Fartv8IEVKn6oXbMIhVI-7V_J-8Lur5ZJaVm2zK9zpcuh5oD0u0JYq-UYMmy/pub?start=false&loop=false&delayms=60000"><img src="assets/slide0-ML.png"></a>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vQN5LeGJ_lafM2zrZx5Fartv8IEVKn6oXbMIhVI-7V_J-8Lur5ZJaVm2zK9zpcuh5oD0u0JYq-UYMmy/pub?start=false&loop=false&delayms=60000"><img src="assets/Slide0-ML.png"></a>
 
 ## Graphs and Networks
 
