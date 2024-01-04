@@ -49,6 +49,7 @@ The objective and content of the course address: The computational mindset, imag
 | 14:15-15:00<br>BB Hist 1    | [SW-installation](./setup.md)<br> [Tools](https://docs.google.com/presentation/d/e/2PACX-1vRdRU-f2zRfXkuTjIu2xq1tBig-cR2_gauXl3GlQhhB8Yh68wV5qzkySJWHOhU3dfcrNCNBhdZfxSUT/pub?start=false&loop=false&delayms=3000), [[teams](https://docs.google.com/presentation/d/e/2PACX-1vRc51VLi_fbENjJxXWjKg9i8F05IRoDl7TWmXGqbOc-AnmyOS_VaonCzgSOsT0aAgfH1lvHzc2y_F-F/pub?start=false&loop=false&delayms=3000)] and [project](./Project)            |
 |                             | *Arvid Lundervold  / Ben Bjørsvik*                                                     |
 | 15:15-16:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)              |
+|                             | [Machine learning](https://docs.google.com/presentation/d/e/2PACX-1vQN5LeGJ_lafM2zrZx5Fartv8IEVKn6oXbMIhVI-7V_J-8Lur5ZJaVm2zK9zpcuh5oD0u0JYq-UYMmy/pub?start=false&loop=false&delayms=60000#slide=id.p) |
 |                             | *Ben Bjørsvik / Arvid Lundervold*                                                      |
 | **Week 1<br>Fri, Jan 5**    |                                                                                        |
 | 10:15-11:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML) cont.        |
