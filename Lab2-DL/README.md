@@ -14,6 +14,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - _MIT Introduction to Deep Learning 6.S191: Lecture 1_ in Foundations of Deep Learning by [Alexander Amini](https://www.mit.edu/~amini)  [[link](https://youtu.be/QDX-1M5Nj7s?si=3W467sl_b08ad-YR)] (58:11 min)
     - For all lectures, slides, and lab materials in [MIT 6.S191](https://twitter.com/MITDeepLearning) see http://introtodeeplearning.com
       
+- _Deep Learning Crash Course 2023_ | Learn Deep Learning Fundamentals In 5 Hours | [Simplilearn](https://www.simplilearn.com) -   [[link](https://youtu.be/CzBLfz89_60?si=M779kWYSnmQVgMwm)] (5:23:36 hr)
+      
 ## Slides
 
 <!--
