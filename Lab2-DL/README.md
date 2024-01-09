@@ -1,6 +1,6 @@
 # Lab 2: Deep learning (DL)
 
-This lab is part of our journey through the concepts and applications of deep learning in medicine and biomedical research<br>
+This lab is part of our journey through the concepts and applications of deep learning in medicine and biomedical research.<br>
 Some of the material has inspiration from and links to the work of [Daniel Bourke](https://www.mrdbourke.com/about)<br>
 _update: 2024-01-09_
 
