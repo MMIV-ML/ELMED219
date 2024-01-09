@@ -24,7 +24,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
     - For data, code, exercises, and slides  - https://github.com/mrdbourke/pytorch-deep-learning
     -  Read the course materials online - https://learnpytorch.io
       
-## Slides
+## Slides <in progress ...>
 
 <!--
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vREHZA9OSvQa2fOGGDikHF_gDZz0tzgaARVmsjXq7xjFlwDDlkmMSDEvZ5Sa9GflbTybFJLQ3IqltjR/pub?start=false&loop=false&delayms=3000"><img src="assets/lab0-slides.png"></a>
