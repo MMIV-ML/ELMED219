@@ -11,7 +11,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ## Slides <in progress ...>
 
 <!--
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vREHZA9OSvQa2fOGGDikHF_gDZz0tzgaARVmsjXq7xjFlwDDlkmMSDEvZ5Sa9GflbTybFJLQ3IqltjR/pub?start=false&loop=false&delayms=3000"><img src="assets/lab0-slides.png"></a>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vSI8YSJSTVkjTqF60tsipa54yNaFi9nLE08HasBwRpfyHNXG5wNo6YXPUC6pmGU73-EZAH2KdZGLyfQ/pub?start=false&loop=false&delayms=3000"><img src="assets/Lab2-slide0.png"></a>
 -->
 
 -----
