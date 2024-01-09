@@ -15,6 +15,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
     - For all lectures, slides, and lab materials in [MIT 6.S191](https://twitter.com/MITDeepLearning) see http://introtodeeplearning.com and https://github.com/aamini/introtodeeplearning
       
 - _Deep Learning Crash Course 2023_ | Learn Deep Learning Fundamentals In 5 Hours | [Simplilearn](https://www.simplilearn.com) -   [[link](https://youtu.be/CzBLfz89_60?si=M779kWYSnmQVgMwm)] (5:23:36 hr)
+
+- _Learn PyTorch for deep learning in a day. Literally_ by [Daniel Bourke](https://www.mrdbourke.com/about) - [[link](https://youtu.be/Z_ikDlimN6A?si=TD1dob4O3dp0XjLE)] 5 Chapters (1:01:36:57 days)
+    - For data and code - https://github.com/mrdbourke/pytorch-deep-learning | Read the course materials online - https://learnpytorch.io
       
 ## Slides
 
