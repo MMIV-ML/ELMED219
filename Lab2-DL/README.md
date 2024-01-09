@@ -34,9 +34,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 You can read the Lab2-DL materials on any device but this course is best viewed and coded along within a desktop browser.
 
-The course uses a free tool called Google Colab. If you've got no experience with it, go through the free Introduction to [Google Colab tutorial](https://colab.research.google.com/notebooks/basic_features_overview.ipynb) and then come back here.
+For the hands-on Lab, Google Colab can be used. If you have no experience with it, go through the free Introduction to [Google Colab tutorial](https://colab.research.google.com/notebooks/basic_features_overview.ipynb).
 
-To dig into Pytorch and tensors:
+To dig into **Pytorch** and **tensors**:
 
 - Click on link ["00. PyTorch Fundamentals"](https://www.learnpytorch.io/00_pytorch_fundamentals)
 - Click the "Open in Colab" button up the top
