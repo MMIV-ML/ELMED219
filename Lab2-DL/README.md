@@ -36,7 +36,7 @@ The course uses a free tool called Google Colab. If you've got no experience wit
 
 To start with Pytorch and tensors:
 
-- Click on link ["00. PyTorch Fundamentals"](https://www.learnpytorch.io/00_pytorch_fundamentals).
-- Click the "Open in Colab" button up the top.
-- Press SHIFT+Enter a few times and see what happens.
+- Click on link ["00. PyTorch Fundamentals"](https://www.learnpytorch.io/00_pytorch_fundamentals)
+- Click the "Open in Colab" button up the top
+- Press SHIFT+Enter a few times and see what happens
 
