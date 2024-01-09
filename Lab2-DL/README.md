@@ -32,8 +32,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 _ _The spelled-out intro to neural networks and backpropagation: building micrograd_ by [Andrej Karpathy](https://karpathy.ai) - [[link](https://youtu.be/VMj-3S1tku0?si=TRX02JJLExYoYObA)]   (2:21:51 hr)
     - "It only assumes basic knowledge of Python and a vague recollection of calculus from high school ..."
-    - micrograd on github: https://github.com/karpathy/micrograd
-    - Jupyter notebooks built in the video: https://github.com/karpathy/nn-zero-to-hero/tree/master/lectures/micrograd
+    -  micrograd on github: https://github.com/karpathy/micrograd
+    -  Jupyter notebooks built in the video: https://github.com/karpathy/nn-zero-to-hero/tree/master/lectures/micrograd
 
 - _Deep Learning Crash Course 2023_ | Learn Deep Learning Fundamentals In 5 Hours | [Simplilearn](https://www.simplilearn.com) -   [[link](https://youtu.be/CzBLfz89_60?si=M779kWYSnmQVgMwm)] (5:23:36 hr)
 
