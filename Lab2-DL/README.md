@@ -40,6 +40,10 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - _Learn PyTorch for deep learning in a day. Literally._ by [Daniel Bourke](https://www.mrdbourke.com/about) - [[link](https://youtu.be/Z_ikDlimN6A?si=TD1dob4O3dp0XjLE)] [5 Chapters](https://www.mrdbourke.com/pytorch-in-a-day) (25 hrs, 36 min and 57 sec long) 
     - For data, code, exercises, and slides  - https://github.com/mrdbourke/pytorch-deep-learning
     -  Read the course materials online - https://learnpytorch.io
+ 
+- _CS231n: Convolutional Neural Networks for Visual Recognition_ course @ Stanford University with [Fei-Fei Li](https://en.wikipedia.org/wiki/Fei-Fei_Li) et al. [[link](http://vision.stanford.edu/teaching/cs231n)] (10-week course)
+    - GitHub repo: https://github.com/cs231n/cs231n.github.io
+    - Python Numpy Tutorial (with Jupyter and Colab): https://cs231n.github.io/python-numpy-tutorial
       
 ## Slides <in progress ...>
 
