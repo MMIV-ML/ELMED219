@@ -15,16 +15,26 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - _But what is a neural network?_ by  [Grant Sanderson](https://www.3blue1brown.com/about) - [[link](https://youtu.be/aircAruvnKk?si=t_bPXdX1Zh0Z2VoC)] (18:39 min)
   - See also his 3Blue1Brown: _The basics of neural networks, and the math behind how they learn_ - https://www.3blue1brown.com/lessons/neural-networks - [code](https://github.com/3b1b/videos/blob/master/_2017/nn/part1.py)
+  - and: _Gradient descent, how neural networks learn_ - [[link](https://youtu.be/IHZwWFHWa-w?si=uIrC21467xXQ2Tuw)] (20:33 min)
+  - and: _Analyzing our neural network_ - [[link](https://www.3blue1brown.com/lessons/neural-network-analysis)]
   - and: _But what is a convolution?_ [[link](https://youtu.be/KuXjwB4LzSA?si=g1s-zIR-s2twmef1)]  (23:00 min)
-  - and: _What is backpropagation really doing?_ [[link](https://youtu.be/Ilg3gGewQ5U?si=lM1N5rNZi6WGS8hW)] (12:46 min)
+  - and: _What is backpropagation really doing?_ [[link](https://youtu.be/Ilg3gGewQ5U?si=Tyl_x1oiq5PHtxel)] (12:46 min)
   - and: _Backpropagation calculus_ [[link](https://youtu.be/tIeHLnjs5U8?si=2TLpjbvcW9RgoejJ)] (10:17 min)
-  - all made with his [Manim](https://github.com/3b1b/manim) engine - see his [TEDxBerkeley](https://youtu.be/s_L-fp8gDzY?si=udAe8y7Tbpln4U8b) talk ... (and also the ManimCE Example [Gallery](https://docs.manim.community/en/stable/examples.html)) 
+  - all made with his [Manim](https://github.com/3b1b/manim) engine - see his [TEDxBerkeley](https://youtu.be/s_L-fp8gDzY?si=udAe8y7Tbpln4U8b) talk ... (and also the ManimCE Example [Gallery](https://docs.manim.community/en/stable/examples.html))
+
+- _Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)_ by Samson Zhang - [[link](https://youtu.be/w8yWXqWQYmU)]  (31:27 min)
+  - [code](https://www.kaggle.com/code/wwsalmon/simple-mnist-nn-from-scratch-numpy-no-tf-keras/notebook)
   
 - _Deep Learning State of the Art (anno 2019) - MIT_ by [Lex Fridman](https://en.wikipedia.org/wiki/Lex_Fridman) -  [[link](https://youtu.be/53YvP6gdD7U?si=xZegsW0rVFKz6lG7)] (46:24 min)
 
 - _MIT Introduction to Deep Learning 6.S191: Lecture 1_ in Foundations of Deep Learning by [Alexander Amini](https://www.mit.edu/~amini)  - [[link](https://youtu.be/QDX-1M5Nj7s?si=3W467sl_b08ad-YR)] (58:11 min)
     - For all lectures, slides, and lab materials in [MIT 6.S191](https://twitter.com/MITDeepLearning) see http://introtodeeplearning.com and https://github.com/aamini/introtodeeplearning
-      
+
+_ _The spelled-out intro to neural networks and backpropagation: building micrograd_ by [Andrej Karpathy](https://karpathy.ai) - [[link](https://youtu.be/VMj-3S1tku0?si=TRX02JJLExYoYObA)]   (2:21:51 hr)
+  - "It only assumes basic knowledge of Python and a vague recollection of calculus from high school ..."
+  - micrograd on github: https://github.com/karpathy/micrograd
+  - Jupyter notebooks built in the video: https://github.com/karpathy/nn-zero-to-hero/tree/master/lectures/micrograd
+
 - _Deep Learning Crash Course 2023_ | Learn Deep Learning Fundamentals In 5 Hours | [Simplilearn](https://www.simplilearn.com) -   [[link](https://youtu.be/CzBLfz89_60?si=M779kWYSnmQVgMwm)] (5:23:36 hr)
 
 - _Learn PyTorch for deep learning in a day. Literally._ by [Daniel Bourke](https://www.mrdbourke.com/about) - [[link](https://youtu.be/Z_ikDlimN6A?si=TD1dob4O3dp0XjLE)] [5 Chapters](https://www.mrdbourke.com/pytorch-in-a-day) (25 hrs, 36 min and 57 sec long) 
