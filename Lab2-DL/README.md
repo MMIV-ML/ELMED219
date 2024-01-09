@@ -30,7 +30,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - _MIT Introduction to Deep Learning 6.S191: Lecture 1_ in Foundations of Deep Learning by [Alexander Amini](https://www.mit.edu/~amini)  - [[link](https://youtu.be/QDX-1M5Nj7s?si=3W467sl_b08ad-YR)] (58:11 min)
     - For all lectures, slides, and lab materials in [MIT 6.S191](https://twitter.com/MITDeepLearning) see http://introtodeeplearning.com and https://github.com/aamini/introtodeeplearning
 
-_ _The spelled-out intro to neural networks and backpropagation: building micrograd_ by [Andrej Karpathy](https://karpathy.ai) - [[link](https://youtu.be/VMj-3S1tku0?si=TRX02JJLExYoYObA)]   (2:21:51 hr)
+- _The spelled-out intro to neural networks and backpropagation: building micrograd_ by [Andrej Karpathy](https://karpathy.ai) - [[link](https://youtu.be/VMj-3S1tku0?si=TRX02JJLExYoYObA)]   (2:21:51 hr)
     - "It only assumes basic knowledge of Python and a vague recollection of calculus from high school ..."
     -  micrograd on github: https://github.com/karpathy/micrograd
     -  Jupyter notebooks built in the video: https://github.com/karpathy/nn-zero-to-hero/tree/master/lectures/micrograd
