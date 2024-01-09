@@ -18,7 +18,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
   - and: _But what is a convolution?_ [[link](https://youtu.be/KuXjwB4LzSA?si=g1s-zIR-s2twmef1)]  (23:00 min)
   - and: _What is backpropagation really doing?_ [[link](https://youtu.be/Ilg3gGewQ5U?si=lM1N5rNZi6WGS8hW)] (12:46 min)
   - and: _Backpropagation calculus_ [[link](https://youtu.be/tIeHLnjs5U8?si=2TLpjbvcW9RgoejJ)] (10:17 min)
-  - all made with his open-source [Manim](https://github.com/3b1b/manim) engine ... (see also the ManimCE Example [Gallery](https://docs.manim.community/en/stable/examples.html)) 
+  - all made with his [Manim](https://github.com/3b1b/manim) engine - see his [TEDxBerkeley](https://youtu.be/s_L-fp8gDzY?si=udAe8y7Tbpln4U8b) talk ... (and also the ManimCE Example [Gallery](https://docs.manim.community/en/stable/examples.html)) 
   
 - _Deep Learning State of the Art (anno 2019) - MIT_ by [Lex Fridman](https://en.wikipedia.org/wiki/Lex_Fridman) -  [[link](https://youtu.be/53YvP6gdD7U?si=xZegsW0rVFKz6lG7)] (46:24 min)
 
