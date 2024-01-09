@@ -41,7 +41,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
     - For data, code, exercises, and slides  - https://github.com/mrdbourke/pytorch-deep-learning
     -  Read the course materials online - https://learnpytorch.io
  
-- _CS231n: Convolutional Neural Networks for Visual Recognition_ course @ Stanford University with [Fei-Fei Li](https://en.wikipedia.org/wiki/Fei-Fei_Li) et al. [[link](http://vision.stanford.edu/teaching/cs231n)] (10-week course)
+- _Convolutional Neural Networks for Visual Recognition_ the CS231n course @ Stanford University by [Fei-Fei Li](https://en.wikipedia.org/wiki/Fei-Fei_Li) et al. [[link](http://vision.stanford.edu/teaching/cs231n)] (10-week course)
     - GitHub repo: https://github.com/cs231n/cs231n.github.io
     - Python Numpy Tutorial (with Jupyter and Colab): https://cs231n.github.io/python-numpy-tutorial
       
