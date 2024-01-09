@@ -12,6 +12,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 (in the order of duration ...)
 
 - _What is Deep Learning?_ (Deep Learning Tutorial For Beginners, 2023) by [Simplilearn](https://www.simplilearn.com)   -  [[link](https://youtu.be/6M5VXKLf4D4?si=L87yONRHjlTJMo0F)] (5:51 min)
+
+- _But what is a neural network?_ by 
+  - See also: https://www.3blue1brown.com/lessons/neural-networks
   
 - _Deep Learning State of the Art (anno 2019) - MIT_ by [Lex Fridman](https://en.wikipedia.org/wiki/Lex_Fridman) -  [[link](https://youtu.be/53YvP6gdD7U?si=xZegsW0rVFKz6lG7)] (46:24 min)
 
