@@ -11,6 +11,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ## Learning motivations - watch these
 (in the order of duration ...)
 
+- _What is Deep Learning?_ (Deep Learning Tutorial For Beginners, 2023) by [Simplilearn](https://www.simplilearn.com)   -  [[link](https://youtu.be/6M5VXKLf4D4?si=L87yONRHjlTJMo0F)] (5:51 min)
+  
 - _Deep Learning State of the Art (anno 2019) - MIT_ by [Lex Fridman](https://en.wikipedia.org/wiki/Lex_Fridman) -  [[link](https://youtu.be/53YvP6gdD7U?si=xZegsW0rVFKz6lG7)] (46:24 min)
 
 - _MIT Introduction to Deep Learning 6.S191: Lecture 1_ in Foundations of Deep Learning by [Alexander Amini](https://www.mit.edu/~amini)  - [[link](https://youtu.be/QDX-1M5Nj7s?si=3W467sl_b08ad-YR)] (58:11 min)
