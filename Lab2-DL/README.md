@@ -1,7 +1,7 @@
 # Lab 2: Deep learning (DL)
 
 This lab is part of our journey through the concepts and applications of deep learning in medicine and biomedical research.<br>
-Some of the material has inspiration from and links to the work of [Daniel Bourke](https://www.mrdbourke.com/about)<br>
+Some of the material has inspiration from and links to the work of famous educators and researchers in the field [Grant Sanderson](https://www.3blue1brown.com/about), [Daniel Bourke](https://www.mrdbourke.com/about), and [Andrej Karpathy](https://karpathy.ai)<br>
 _update: 2024-01-10_
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
