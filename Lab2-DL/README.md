@@ -2,13 +2,14 @@
 
 This lab is part of our journey through the concepts and applications of deep learning in medicine and biomedical research.<br>
 Some of the material has inspiration from and links to the work of [Daniel Bourke](https://www.mrdbourke.com/about)<br>
-_update: 2024-01-09_
+_update: 2024-01-10_
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
 <img src="../assets/GPT-MedAI.png" width="600"><br>
 If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plus), you can also try out the the [**Medical AI Assistant (UiBmed - ELMED219 & BMED365)**](https://chat.openai.com/g/g-d90dfN17H-medical-ai-assistant-uibmed-elmed219-bmed365) <br> [GPT](https://openai.com/blog/introducing-gpts) and see if you can get it to answer some of your questions. See also [_Q&A-in-the-wild_](./Q&A-in-the-wild.md)
 
-## Slides <in progress ...>
+## Slides 
+<in progress ...>
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vSI8YSJSTVkjTqF60tsipa54yNaFi9nLE08HasBwRpfyHNXG5wNo6YXPUC6pmGU73-EZAH2KdZGLyfQ/pub?start=false&loop=false&delayms=3000"><img src="./assets/Lab2_slide0.png"></a>
 
