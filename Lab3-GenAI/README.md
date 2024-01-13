@@ -61,6 +61,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
   
 - Toma A et al. _Generative AI could revolutionize health care — but not if control is ceded to big tech_ (comment published 30 Nov 2023). Nature 2023;624:36-38. [[link](https://www.nature.com/articles/d41586-023-03803-y)]
 
+- Clusman J et al. _The future landscape of large language models in medicine_ (perspective published 10 Oct 2023). Communications Medicine 2023;3:141 [[link](https://doi.org/10.1038/s43856-023-00370-1)]
+  
 - Thirunavukarasu AJ et al. _Large language models in medicine_   (review article published 17 Jul 2023) Nature Medicine 2023;29:1930–1940. [[link](https://www.nature.com/articles/s41591-023-02448-8)]
 
 - Moore M et al. _Foundation models for generalist medical artificial intelligence_ (perspective article published 12 Apr 2023) Nature 2023;616:259–265. A seminal paper on foundation models in medicine (GMAI). [[link](https://www.nature.com/articles/s41586-023-05881-4)]
