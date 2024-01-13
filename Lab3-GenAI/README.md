@@ -67,6 +67,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - Moore M et al. _Foundation models for generalist medical artificial intelligence_ (perspective article published 12 Apr 2023) Nature 2023;616:259–265. A seminal paper on foundation models in medicine (GMAI). [[link](https://www.nature.com/articles/s41586-023-05881-4)]
   
+### Repos:
+
+- AI-in-Health/MedLLMsPracticalGuide: _A curated list pf practical guide resources of Medical LLMs_ [[link](https://github.com/AI-in-Health/MedLLMsPracticalGuide)]
 
 ## OpenAI: Prompt engineering guide
 
