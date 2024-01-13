@@ -69,7 +69,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
   
 ### Repos:
 
-- AI-in-Health/MedLLMsPracticalGuide: _A curated list pf practical guide resources of Medical LLMs_ [[link](https://github.com/AI-in-Health/MedLLMsPracticalGuide)]
+- AI-in-Health/MedLLMsPracticalGuide: _A curated list pf practical guide resources of Medical LLMs_ [[link](https://github.com/AI-in-Health/MedLLMsPracticalGuide)] (a very comprehensive and updated overview of the field)
 
 ## OpenAI: Prompt engineering guide
 
