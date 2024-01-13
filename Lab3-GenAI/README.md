@@ -55,7 +55,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ### Readings:
 (in the order of most recent ...)
 
-- Karthikesalingam A et al. (Google Research, 12 Jan 2024) _AMIE: A research AI system for diagnostic medical reasoning and conversations_ [[link](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html)]
+- Karthikesalingam A et al. (Google Research, 12 Jan 2024) _AMIE: A research AI system for diagnostic medical reasoning and conversations_ [[link](https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html)] [[arXiv](https://doi.org/10.48550/arXiv.2312.00164)]
 
 - Oniani D et al. _Adopting and expanding ethical principles for generative artificial intelligence from military to healthcare_ (perspective article published 2 Dec 2023). npj Digital Medicine 2023;6:225. Addresses the ethical dilemmas and challenges posed by the integration of generative AI into healthcare practice, compared with genAI in military use. CC-BY-4.0 [[link](https://www.nature.com/articles/s41746-023-00965-x)] [[pdf](https://www.nature.com/articles/s41746-023-00965-x.pdf)]
   
