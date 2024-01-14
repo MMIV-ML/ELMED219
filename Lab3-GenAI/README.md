@@ -102,12 +102,11 @@ This **guide (https://platform.openai.com/docs/guides/prompt-engineering)** is h
 
 ## Slides
 
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vRj03HAo4CfsxUD9l9JgzbXXiGvmEqgKoMZdmEBtMuR0hl46fMINr2noPaUJnSmNS9wRknTfGiqyWh1/pub?start=false&loop=false&delayms=3000"><img src="assets/Lab3-slide-0.png"></a>
+
 <!--
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vREHZA9OSvQa2fOGGDikHF_gDZz0tzgaARVmsjXq7xjFlwDDlkmMSDEvZ5Sa9GflbTybFJLQ3IqltjR/pub?start=false&loop=false&delayms=3000"><img src="assets/lab0-slides.png"></a>
+<img src="assets/Lab3-slide-0.png">
 -->
-
-<img src="assets/lab3-slides.png">
-
 
 <!-- Here's a short extra video that goes through a very similar notebook to the one we use in this lab: https://www.youtube.com/watch?v=OhxUgFNnj1U. You may want to watch this as well. -->
 
