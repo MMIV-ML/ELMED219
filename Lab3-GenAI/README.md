@@ -7,6 +7,17 @@ This lab is part of our journey through computational modeling techniques and AI
 <img src="../assets/GPT-MedAI.png" width="600"><br>
 If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plus), you can also try out the the [**Medical AI Assistant (UiBmed - ELMED219 & BMED365)**](https://chat.openai.com/g/g-d90dfN17H-medical-ai-assistant-uibmed-elmed219-bmed365) <br> [GPT](https://openai.com/blog/introducing-gpts) and see if you can get it to answer some of your questions. See also [_Q&A-in-the-wild_](./Q&A-in-the-wild.md)
 
+---------------
+
+## Slides
+
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vRj03HAo4CfsxUD9l9JgzbXXiGvmEqgKoMZdmEBtMuR0hl46fMINr2noPaUJnSmNS9wRknTfGiqyWh1/pub?start=false&loop=false&delayms=3000"><img src="assets/Lab3-slide-0.png"></a>
+
+<!--
+<img src="assets/Lab3-slide-0.png">
+-->
+-----
+
 ## Learning motivations - watch these
 (in the order of duration ...)
 
@@ -98,19 +109,12 @@ This **guide (https://platform.openai.com/docs/guides/prompt-engineering)** is h
 - Discuss the API in the [OpenAI Community Forum](https://community.openai.com/top?period=monthly) or [OpenAI Discord channel](https://discord.com/invite/openai)
 - See example prompts in the [OpenAI Examples](https://beta.openai.com/examples)
 
----------------
 
-## Slides
-
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vRj03HAo4CfsxUD9l9JgzbXXiGvmEqgKoMZdmEBtMuR0hl46fMINr2noPaUJnSmNS9wRknTfGiqyWh1/pub?start=false&loop=false&delayms=3000"><img src="assets/Lab3-slide-0.png"></a>
-
-<!--
-<img src="assets/Lab3-slide-0.png">
--->
 
 <!-- Here's a short extra video that goes through a very similar notebook to the one we use in this lab: https://www.youtube.com/watch?v=OhxUgFNnj1U. You may want to watch this as well. -->
 
 -----
+
 ### Other sources of inspiration:
 
 - [PCBBE 2023](https://pcbbe.p.lodz.pl) "Will AI be going to replace a medical doctor?" [[link](https://github.com/arvidl/PCBBE-2023-explore/blob/main/PCBBE_2023-PLEN-04-Debate-AL.md)]
