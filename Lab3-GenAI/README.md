@@ -71,7 +71,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - AI-in-Health/MedLLMsPracticalGuide: _A curated list of practical guide resources of Medical LLMs_ [[link](https://github.com/AI-in-Health/MedLLMsPracticalGuide)] <br>(**provides a very comprehensive and updated overview of the field**)
 
-- [S. Raschka](https://sebastianraschka.com): LLMs from scratch  [[**https://github.com/rasbt/LLMs-from-scratch**](https://github.com/rasbt/LLMs-from-scratc)]  how LLMs work from the inside out ...  
+- [S. Raschka](https://sebastianraschka.com): **LLMs from scratch**  [[https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratc)]  how LLMs work from the inside out ...  
   - See also his book _Build a Large Language Model (From Scratch)_  Manning Early Accesss Program [[link](https://www.manning.com/books/build-a-large-language-model-from-scratch)]  (in progresses - final publication in Early 2025)
 
 ## OpenAI: Prompt engineering guide
