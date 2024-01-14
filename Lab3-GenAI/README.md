@@ -84,6 +84,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - [S. Raschka](https://sebastianraschka.com): **LLMs from scratch**  [[https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)]  how LLMs work from the inside out ...  
   - See also his book _Build a Large Language Model (From Scratch)_  Manning Early Accesss Program [[link](https://www.manning.com/books/build-a-large-language-model-from-scratch)] ... how LLMs work under the hood, tearing the lid off the Generative AI black box (in progresses from Dec 2023  - final publication in early 2025)
+  - The [_Ahead of AI_](https://magazine.sebastianraschka.com) blogpost: Understanding and Coding Self-Attention, Multi-Head Attention, Cross-Attention, and Causal-Attention in LLMs (published 14 Jan 2024) [[link](https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention)] ... Since self-attention is now everywhere, it's important to understand how it works.
 
 ## OpenAI: Prompt engineering guide
 
