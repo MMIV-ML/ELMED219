@@ -1,6 +1,6 @@
 # Lab 3: Generative AI and Large Language Models
 
-This lab is part of our journey through computational modeling techniques and AI in biomedical and clinical applications. It is designed to give you a comprehensive understanding of how generative AI is transforming society in general and healthcare in particular and the role it will play in the future of medicine.<br>  _update: 2024-01-13_
+This lab is part of our journey through computational modeling techniques and AI in biomedical and clinical applications. It is designed to give you a comprehensive understanding of how generative AI is transforming society in general and healthcare in particular and the role it will play in the future of medicine.<br>  _update: 2024-01-14_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -70,6 +70,9 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ### Repos:
 
 - AI-in-Health/MedLLMsPracticalGuide: _A curated list of practical guide resources of Medical LLMs_ [[link](https://github.com/AI-in-Health/MedLLMsPracticalGuide)] <br>(**provides a very comprehensive and updated overview of the field**)
+
+- [S. Raschka](https://sebastianraschka.com): LLMs from scratch  [[**https://github.com/rasbt/LLMs-from-scratch**](https://github.com/rasbt/LLMs-from-scratc)]  how LLMs work from the inside out ...  
+  - See also his book _Build a Large Language Model (From Scratch)_  Manning Early Accesss Program [[link](https://www.manning.com/books/build-a-large-language-model-from-scratch)]  (in progresses - final publication in Early 2025)
 
 ## OpenAI: Prompt engineering guide
 
