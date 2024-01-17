@@ -62,14 +62,14 @@ The objective and content of the course address: The computational mindset, imag
 |                             |  *Ben Bjørsvik*                                                                        |
 | **Week 2<br>Fri, Jan 12**   |                                                                                        |
 | 08:15-13:00<br>BB Hist 1    |  [Lab 2: Deep learning](./Lab2-DL)                                                     |
-|                             | *Arvid Lundervold / N.N.*                                                              |
+|                             | *Arvid Lundervold*                                                              |
 | **Week 3<br>Team project**  |  Joint with BMED365 - Working on project in interdisciplinary teams                    |
 | **Week 3<br>Tue, Jan 16**   |                                                                                        |
 | 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
 |                             | *Arvid Lundervold*                                                                     |
 |                             |                                                                                        |
 | 13:15-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
-|                             | *Arvid Lundervold / N.N.*                                                              |
+|                             | *Arvid Lundervold / Ben Bjørsvik*                                                              |
 |  **Week 4<br>Wed, Jan 24**  |                                                                                        |
 | 08:15-10:00<br>BB Hist 1    | Project presentations by team  (jointly with BMED365)                                  |
 |                             | *Arvid Lundervold / Ben Bjørsvik*                                                      |
