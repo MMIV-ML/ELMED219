@@ -76,7 +76,7 @@ The objective and content of the course address: The computational mindset, imag
 | **Week 4<br>Fri, Jan 26**   |                                                                                        |
 | 16:00                       | Deadline for the Team Project Report - joint with BMED365 (hand in via MittUiB)        |
 |**Fri, Jan 26** | 
-||[**Home exam**](./Exam): Duration: 2 hours;  <br>Assignment is handed out: 26.01.2024, 13:00; <br>Submission deadline: 26.01.2024, 15:00; <br>Examination system: Inspera Digital exam
+||[**Home exam**](https://github.com/MMIV-ML/ELMED219/tree/main/Exam#readme): Duration: 2 hours;  <br>Assignment is handed out: 26.01.2024, 13:00; <br>Submission deadline: 26.01.2024, 15:00; <br>Examination system: Inspera Digital exam
 
 
 
