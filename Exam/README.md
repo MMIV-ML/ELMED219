@@ -18,7 +18,7 @@ The exam will take place in [Inspera](https://www.inspera.com). Please make sure
 
 - **All aids are allowed** but specify precisely which aids you have had access to and how you used these sources (look-up, search, prompt) in your submitted answers. The exam allows the use of AI to understand and explain medical AI.
 
-- The **topics covered** in the MCQ and the two essay questions are among the following: 
+- The **topics covered** in the MCQ and the two essay questions are among the following (_no coding is expected_): 
 
   - Multimodal data
   - Basics of Machine Learning
