@@ -6,7 +6,7 @@ This document provides important information about the upcoming exam for the ELM
 The digital home exam will take place on Friday Jan 26th 2024 13:00-15:00.
 
 ## Location
-The exam will take place in [Inspera](https://www.inspera.com). Please make sure you are able to login to UiB/Inspera at least 5 minutes before the scheduled start time (more details will come).
+The exam will take place in [Inspera](https://www.inspera.com). Please make sure you are able to login to [UiB/Inspera](https://vurdering.uib.no) at least 5 minutes before the scheduled start time (more details will come).
 
 ## Exam Format
 
