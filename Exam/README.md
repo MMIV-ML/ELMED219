@@ -39,7 +39,7 @@ The digital home exam will take place in [Inspera](https://www.inspera.com). Ple
 
 - The highest possible score on the complete exam is 60 points, the lowest possible score is 0 points.
 
-- We will use the binary grading system with a **tentative threshold of 20 points** for passing the exam: 0-19 points is a fail, 20-60 is a pass (e.g. you will pass if you score at least 5 points on each of the essay questions and has at least one correct answer on at least 4 of the 8 MCQ questions; note that this is just an example, **the actual grading and threshold will be set by the course responsible**).<br>
+- We will use the binary grading system with a **tentative threshold** of 20 points for passing the exam: 0-19 points is a fail, 20-60 is a pass (e.g. you will pass if you score at least 5 points on each of the essay questions and has at least one correct answer on at least 4 of the 8 MCQ questions; note that this is just an example, **the actual grading and threshold will be set by the course responsible**).<br>
 
 
 
