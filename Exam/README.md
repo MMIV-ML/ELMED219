@@ -50,10 +50,6 @@ _For each of 8 MCQ questions with 5 answer options each, 2 of the 5 options are 
 Please refer to the course syllabus for more detailed information about the curriculum.
 
 
-### The ELMED219 Spring 2024 exam (26th January, 13:00 - 15:00) in Inspera
-
-The MCQs with the two most correct answers:  [[pdf](./ELMED219_2024v_exam_inspera_MCQ_with_the_two_most_correct_answers.pdf)]
-
 
 ## A few examples from previous ELMED219 exams:
 
@@ -91,3 +87,11 @@ and remember ....
 
 
 **Good luck with your preparation!**
+
+------
+
+## UPDATE 2-Feb-2024:
+
+### The ELMED219 Spring 2024 exam (26th January, 13:00 - 15:00) in Inspera [[pdf](./ELMED219_2024v_exam_inspera_MCQ_with_the_two_most_correct_answers.pdf)]
+
+(The MCQs with the two most correct answers) 
