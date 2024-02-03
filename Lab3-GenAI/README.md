@@ -1,6 +1,6 @@
 # Lab 3: Generative AI and Large Language Models
 
-This lab is part of our journey through computational modeling techniques and AI in biomedical and clinical applications. It is designed to give you a comprehensive understanding of how generative AI is transforming society in general and healthcare in particular and the role it will play in the future of medicine.<br>  _update: 2024-01-15_
+This lab is part of our journey through computational modeling techniques and AI in biomedical and clinical applications. It is designed to give you a comprehensive understanding of how generative AI is transforming society in general and healthcare in particular and the role it will play in the future of medicine.<br>  _update: 2024-02-03_
 
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
@@ -28,6 +28,15 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - _Introducing GPT-4_ by [**OpenAI**](https://openai.com) [[link](https://www.youtube.com/watch?v=--khbXchTeE)] (3:12 min)
 
 - _What ChatGPT is and what it's not: A three minutes guide_ by [Richard Van Noorden](https://www.linkedin.com/in/richard-van-noorden), Features Editor, _Nature_  [[link](https://youtu.be/f70ME-IfeMU)] (3:51 min)
+
+- _Generative AI from scratch_ (Graphics in 5 Minutes) by [Steve Seitz](https://www.smseitz.com), UWash [GoogleScholar](https://scholar.google.com/citations?user=-6cOYcYAAAAJ&hl=en)
+   - Large Language Models from scratch [[link](https://youtu.be/lnA9DMvHtfI)]   (8:25 min)
+   - Large Language Models: Part 2 [[link](https://youtu.be/YDiSFS-yHwk)] (7:19 min)
+   - Text to Image in 5 minutes: Parti, Dall-E 2, Imagen [[link](https://youtu.be/GYyP7Ova8KA)] (6:00 min)
+   - Text to Image: Part 2 -- how image diffusion works in 5 minutes [[link](https://youtu.be/lyodbLwb2lY)] (6:13 min)
+   - Reinforcement Learning from scratch [[link](https://youtu.be/vXtfdGphr3c)] (8:25 min)
+   - Reinforcement Learning: AlphaGo [[link](https://youtu.be/4PyWLgrt7YY)] (8:14 min)
+   - Reinforecment Learning: ChatGPT and RLHF [[link](https://youtu.be/WMmGzx-jWvs)] (6:31 min)
   
 - _The Exciting, Perilous Journey Toward AGI_, **TED talk** by [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever) (OpenAI) [[link](https://www.youtube.com/watch?v=SEkGLj0bwAU)] (12:25 min)
 
