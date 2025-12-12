@@ -1,6 +1,6 @@
 # ELMED219: Artificial intelligence and computational medicine
 
-## Visit: https://github.com/MMIV-ML/ELMED219-2025
+## Visit: https://github.com/arvidl/ELMED219-2026
 
 <img src="./assets/GPT-MedAI.png" width="500"> <br>
 If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plus), you can also try out the [**Medical AI Assistant (UiBmed - ELMED219 & BMED365)**](https://chat.openai.com/g/g-d90dfN17H-medical-ai-assistant-uibmed-elmed219-bmed365) and see if you can get it to answer some of your questions.
@@ -37,3 +37,7 @@ _"Computational imaging, modelling and AI in biomedicine"_
 | **Year**                    | Link             |
 | --------------------------- |  --              | 
 |2024 |https://github.com/MMIV-ML/BMED365-2024 |
+|2025 |https://github.com/MMIV-ML/BMED365-2025 |
+
+
+Last update: 2025-12-12
